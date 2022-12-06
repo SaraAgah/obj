@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(255, 159, 159);
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+section {
+    text-align: center;
+    background-color: rgb(240, 15, 15);
+    border-radius: 5px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    color: rgb(255, 255, 255);
+}
+img {
+    border-radius: 10px;
+}
+.resultados{
+    background-color: rgb(255, 159, 159);
+}
+
+h1 {
+    color: rgb(255, 159, 159);
+}
